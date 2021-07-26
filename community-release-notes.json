@@ -3,7 +3,13 @@
     "releases": [
         {
             "version": "1.0.0",
-            "patches": []
+            "patches": [
+                {
+                    "code": "magento2-base",
+                    "magento-version": "2.3.7",
+                    "description": "\"Update README.md\": N/A"
+                }
+            ]
         }
     ]
 }

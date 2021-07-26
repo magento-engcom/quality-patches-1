@@ -1,2 +1,15 @@
 {
+    "magento-engcom/magento2/10": {
+        "categories": [
+            "N/A"
+        ],
+        "title": "Author: @super-user-test-tool. Update README.md",
+        "packages": {
+            "magento2-base": {
+                "2.3.7": {
+                    "file": "community/magento-engcom_magento2_10.patch"
+                }
+            }
+        }
+    }
 }

@@ -1,0 +1,19 @@
+From fbf90e135637fe77f5da8422913569cadb063ac5 Mon Sep 17 00:00:00 2001
+From: Stanislav Idolov <sidolov@adobe.com>
+Date: Thu, 1 Jul 2021 10:58:56 -0500
+Subject: [PATCH] Update README.md
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/README.md b/README.md
+index 91f2ed19fb45..a95ddc022ecf 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,5 @@
++Test changes
++
+ [![Open Source Helpers](https://www.codetriage.com/magento/magento2/badges/users.svg)](https://www.codetriage.com/magento/magento2)
+ [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/magento/magento2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+ [![Crowdin](https://d322cqt584bo4o.cloudfront.net/magento-2/localized.svg)](https://crowdin.com/project/magento-2)
